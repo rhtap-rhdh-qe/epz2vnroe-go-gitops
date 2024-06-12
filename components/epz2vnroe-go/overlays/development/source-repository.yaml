@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: epz2vnroe-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/epz2vnroe-go
